@@ -1,0 +1,3 @@
+project_code: pdev
+region: eu-west-1
+template_bucket_name: pdev-sceptre-prod
